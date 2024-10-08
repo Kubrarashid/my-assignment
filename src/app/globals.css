@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.about{
+    background-color: rgb(158, 75, 236);
+    display: flex;
+    align-items: center;
+    height: 60px;
+    font-size: 30px;
+
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: 30px;
+    background-color: rgb(17, 196, 166);
+
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: 30px;
+    background-color: rgb(22, 216, 103);  
+}
+
+.service{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: 30px;
+    background-color: rgb(43, 168, 226);  
+}
+
+.nested{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: 30px;
+    background-color: rgba(226, 183, 43, 0.822); 
+}
